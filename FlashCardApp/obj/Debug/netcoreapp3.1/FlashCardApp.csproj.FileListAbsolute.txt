@@ -1,0 +1,13 @@
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.csprojAssemblyReference.cache
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.AssemblyInfoInputs.cache
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.AssemblyInfo.cs
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.csproj.CoreCompileInputs.cache
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\bin\Debug\netcoreapp3.1\FlashCardApp.exe
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\bin\Debug\netcoreapp3.1\FlashCardApp.deps.json
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\bin\Debug\netcoreapp3.1\FlashCardApp.runtimeconfig.json
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\bin\Debug\netcoreapp3.1\FlashCardApp.runtimeconfig.dev.json
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\bin\Debug\netcoreapp3.1\FlashCardApp.dll
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\bin\Debug\netcoreapp3.1\FlashCardApp.pdb
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.dll
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.pdb
+C:\Users\hamwa\source\repos\FlashCardApp\FlashCardApp\obj\Debug\netcoreapp3.1\FlashCardApp.genruntimeconfig.cache
